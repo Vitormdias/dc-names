@@ -3,10 +3,6 @@
 
 Some of DC's characters names
 
-### Material that was used:
-
-* [Egghead course](https://egghead.io/courses/how-to-write-an-open-source-javascript-library)
-
 ### Usage
 
 * Run:
@@ -24,3 +20,7 @@ Some of DC's characters names
     //a random name from the list
     console.log(dcNames.random());
 ```
+
+#### References:
+
+* [Egghead course](https://egghead.io/courses/how-to-write-an-open-source-javascript-library)
